@@ -41,7 +41,7 @@
   }
 
   .hourly-forecast-container {
-    overflow-x: scroll;
+    overflow-x: scroll hidden;
     padding: 20px;
     gap: 30px;
     justify-content: space-evenly;
